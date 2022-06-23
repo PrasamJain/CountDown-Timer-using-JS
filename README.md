@@ -8,6 +8,6 @@ In this repo we make a timing countDown timer, Which countdown in the formate of
 
 Basic operations we use for making it :-
 
-  setInterval( Function_name , time_in_ms )               // repeat after every certain time interval.
+    setInterval( Function_name , time_in_ms )               // repeat after every certain time interval.
   
-  clearInterval(instance)             // to stop the timer
+    clearInterval(instance)             // to stop the timer
