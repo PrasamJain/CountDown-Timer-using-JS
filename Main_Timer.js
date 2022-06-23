@@ -19,7 +19,7 @@ function countdown()
 {
   if(min==0 && hr==0&& sec==0)
   {
-    console.log("0 Time remaining !!")
+    console.log("Times Up !!")
     clearInterval(id);
   }
   else
